@@ -1,0 +1,1 @@
+{'host_name': 'localhost', 'start_time': '2021-06-11 20:50:29.353340', 'stop_time': '2021-06-11 20:50:29.353447', 'task_name': 'vdasu-00000-generate-images'}

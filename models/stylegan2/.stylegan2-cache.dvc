@@ -1,0 +1,5 @@
+outs:
+- md5: 92bf8907da099873c5f4db5802b3b0a1.dir
+  size: 4631089678
+  nfiles: 14
+  path: .stylegan2-cache
